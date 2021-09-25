@@ -1,0 +1,15 @@
+.meal{
+    border-radius: 5px 40px 40px 0;
+}
+.detail-btn{
+    border: none;
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 8px 20px;
+    border-radius: 30px;
+    transition: 0.7s;
+}
+.detail-btn:hover{
+    border-radius: 5px 30px;
+}
